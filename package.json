@@ -4,7 +4,8 @@
   "description": "Un lugar para la comunidad #PRMX1",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp serve"
   },
   "author": "Juan Prado",
   "contributors": [
